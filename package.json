@@ -1,0 +1,19 @@
+{
+  "name": "bhope",
+  "version": "1.0.0",
+  "description": "2020-2021年度 厚朴工作室前端脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacleklm/BHope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacleklm/BHope/issues"
+  },
+  "homepage": "https://github.com/Jacleklm/BHope#readme"
+}
